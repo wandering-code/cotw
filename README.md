@@ -68,5 +68,5 @@ GitHub Pages sirviendo la raíz de la rama principal; no hay paso de build.
 - Tipo de trofeo de cada especie y ubicación de las reservas:
   [wiki de theHunter: Call of the Wild](https://thehuntercotw.fandom.com), CC BY-SA.
 
-Proyecto de fans sin relación con Expansive Worlds ni Avalanche Studios. No incluye imágenes
-ni arte del juego.
+Proyecto de fans sin relación con Expansive Worlds ni Avalanche Studios. El icono de la app
+(`img/`) es el icono oficial del juego, propiedad de Expansive Worlds; el resto no usa arte del juego.
